@@ -1,7 +1,7 @@
 # LucasMogg-Cardio-Challenge-4.1
 # Main Project Overview
 
-This project involves parameter optimization by analyzing CSV files containg photoplethysmogram (PPG) signals to align calculated data with expected outcomes.
+This project involves parameter extraction and optimization by analyzing CSV files containg photoplethysmogram (PPG) signals to align calculated data with expected outcomes.
 
 ## Installation
 
